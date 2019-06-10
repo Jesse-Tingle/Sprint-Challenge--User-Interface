@@ -269,6 +269,14 @@ Styles for about page
     padding-bottom: 20px;
 }
 
+.text-container-squares {
+    margin-top: 20px;
+}
+
+.text-container-squares p {
+    padding-bottom: 20px;
+}
+
 .img-and-text {
     border-bottom: 1px dashed black;
     padding-top: 20px;
