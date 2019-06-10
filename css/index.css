@@ -248,3 +248,42 @@ Box Section
 /**********
 End of Box Section
 **********/
+
+
+/**************
+Styles for about page
+**************/
+
+ .top-content .text-container-wide {
+    padding: 0 1%;
+    padding-bottom: 20px;
+}
+
+.top-content-about {
+    display: flex;
+}
+
+.top-content .text-container-squares {
+    
+    padding: 0 1%;
+    padding-bottom: 20px;
+}
+
+.img-and-text {
+    border-bottom: 1px dashed black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+button {
+    border: 3px solid black;
+    border-radius: 8px;
+    width: 150px;
+    height: 33px;
+    font-size: 16px;
+}
+
+.text-container-bottom {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}   
