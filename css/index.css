@@ -144,3 +144,107 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+/******************************
+
+My code is below
+
+*******************************/
+
+
+
+/**********
+.header Section
+**********/
+header {
+    display: flex;
+}
+
+.logo {
+    width: 157px;
+    height: 41px;
+    margin-top: 14px;
+}
+
+header nav {
+    padding-top: 37px;
+}
+
+header nav a {
+    text-decoration: none;
+    color: black;
+    padding-left: 80px;
+    font-size: 13px;
+}
+
+/**********
+End of .header Section
+**********/
+
+
+
+/**********
+.top-content Section
+**********/
+
+.top-content {
+    margin-top: 40px;
+}
+
+.top-content img {
+    padding-bottom: 20px;
+}
+/**********
+End of .top-content Section
+**********/
+
+
+
+/**********
+Box Section
+**********/
+
+.middle-content .boxes .box1 {
+    background: teal;
+}
+
+.middle-content .boxes .box2 {
+    background: gold;
+}
+
+.middle-content .boxes .box3 {
+    background: cadetblue;
+}
+
+.middle-content .boxes .box4 {
+    background: coral;
+}
+
+.middle-content .boxes .box5 {
+    background: crimson;
+}
+
+.middle-content .boxes .box6 {
+    background: forestgreen;
+}
+
+.middle-content .boxes .box7 {
+    background: darkorchid;
+}
+
+.middle-content .boxes .box8 {
+    background: hotpink;
+}
+
+.middle-content .boxes .box9 {
+    background: indigo;
+}
+
+.middle-content .boxes .box10 {
+    background: dodgerblue;
+}
+
+/**********
+End of Box Section
+**********/
